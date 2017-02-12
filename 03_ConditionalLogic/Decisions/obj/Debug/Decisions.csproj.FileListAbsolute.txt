@@ -1,0 +1,9 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\Decisions\Decisions\bin\Debug\Decisions.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\03_Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\03_Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\03_Decisions\Decisions\obj\Debug\Decisions.pdb
