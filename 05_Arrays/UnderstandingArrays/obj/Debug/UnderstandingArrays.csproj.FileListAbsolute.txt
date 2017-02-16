@@ -1,0 +1,12 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\05_Arrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\05_Arrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\05_Arrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\05_Arrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\05_Arrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\05_Arrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csprojResolveAssemblyReference.cache
