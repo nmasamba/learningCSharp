@@ -1,0 +1,7 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\readTextWhile\readTextWhile\bin\Debug\readTextWhile.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\readTextWhile\readTextWhile\bin\Debug\readTextWhile.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\readTextWhile\readTextWhile\bin\Debug\readTextWhile.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\readTextWhile\readTextWhile\obj\Debug\readTextWhile.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\readTextWhile\readTextWhile\obj\Debug\readTextWhile.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\readTextWhile\readTextWhile\obj\Debug\readTextWhile.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\readTextWhile\readTextWhile\bin\Debug\value1.txt

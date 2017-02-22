@@ -1,0 +1,6 @@
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\readTextWhile\readTextWhile\bin\Release\readTextWhile.exe.config
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\readTextWhile\readTextWhile\bin\Release\value1.txt
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\readTextWhile\readTextWhile\bin\Release\readTextWhile.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\readTextWhile\readTextWhile\bin\Release\readTextWhile.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\readTextWhile\readTextWhile\obj\Release\readTextWhile.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\readTextWhile\readTextWhile\obj\Release\readTextWhile.pdb
