@@ -1,0 +1,6 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\simple_classes\simple_classes\bin\Debug\simple_classes.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\simple_classes\simple_classes\obj\Debug\simple_classes.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\simple_classes\simple_classes\bin\Debug\simple_classes.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\simple_classes\simple_classes\bin\Debug\simple_classes.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\simple_classes\simple_classes\obj\Debug\simple_classes.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\simple_classes\simple_classes\obj\Debug\simple_classes.pdb
