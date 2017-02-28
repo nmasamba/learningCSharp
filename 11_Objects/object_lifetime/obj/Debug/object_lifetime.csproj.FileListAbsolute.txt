@@ -1,0 +1,6 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\object_lifetime\object_lifetime\bin\Debug\object_lifetime.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\object_lifetime\object_lifetime\bin\Debug\object_lifetime.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\object_lifetime\object_lifetime\bin\Debug\object_lifetime.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\object_lifetime\object_lifetime\obj\Debug\object_lifetime.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\object_lifetime\object_lifetime\obj\Debug\object_lifetime.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\object_lifetime\object_lifetime\obj\Debug\object_lifetime.pdb
