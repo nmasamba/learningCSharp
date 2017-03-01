@@ -1,0 +1,6 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_inheritance\understanding_inheritance\bin\Debug\understanding_inheritance.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_inheritance\understanding_inheritance\bin\Debug\understanding_inheritance.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_inheritance\understanding_inheritance\bin\Debug\understanding_inheritance.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_inheritance\understanding_inheritance\obj\Debug\understanding_inheritance.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_inheritance\understanding_inheritance\obj\Debug\understanding_inheritance.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_inheritance\understanding_inheritance\obj\Debug\understanding_inheritance.pdb
