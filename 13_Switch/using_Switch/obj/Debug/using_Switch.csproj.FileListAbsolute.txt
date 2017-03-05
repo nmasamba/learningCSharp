@@ -1,0 +1,6 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\using_Switch\using_Switch\bin\Debug\using_Switch.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\using_Switch\using_Switch\bin\Debug\using_Switch.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\using_Switch\using_Switch\bin\Debug\using_Switch.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\using_Switch\using_Switch\obj\Debug\using_Switch.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\using_Switch\using_Switch\obj\Debug\using_Switch.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\using_Switch\using_Switch\obj\Debug\using_Switch.pdb
