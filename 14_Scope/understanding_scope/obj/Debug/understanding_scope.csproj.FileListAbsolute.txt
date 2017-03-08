@@ -1,0 +1,6 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_scope\understanding_scope\bin\Debug\understanding_scope.exe.config
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_scope\understanding_scope\bin\Debug\understanding_scope.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_scope\understanding_scope\bin\Debug\understanding_scope.pdb
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_scope\understanding_scope\obj\Debug\understanding_scope.csprojResolveAssemblyReference.cache
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_scope\understanding_scope\obj\Debug\understanding_scope.exe
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_scope\understanding_scope\obj\Debug\understanding_scope.pdb
