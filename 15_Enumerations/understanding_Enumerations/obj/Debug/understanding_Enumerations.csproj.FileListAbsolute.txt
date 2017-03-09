@@ -1,0 +1,6 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\understanding_Enumerations\understanding_Enumerations\bin\Debug\understanding_Enumerations.exe.config
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\understanding_Enumerations\understanding_Enumerations\obj\Debug\understanding_Enumerations.csprojResolveAssemblyReference.cache
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\understanding_Enumerations\understanding_Enumerations\bin\Debug\understanding_Enumerations.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\understanding_Enumerations\understanding_Enumerations\bin\Debug\understanding_Enumerations.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\understanding_Enumerations\understanding_Enumerations\obj\Debug\understanding_Enumerations.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\understanding_Enumerations\understanding_Enumerations\obj\Debug\understanding_Enumerations.pdb
