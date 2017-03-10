@@ -1,0 +1,8 @@
+c:\users\nyasha\documents\visual studio 2015\Projects\Namespaces_and_referencing assemlies\Namespaces_and_referencing assemlies\bin\Debug\Namespaces_and_referencing assemlies.exe.config
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\Namespaces_and_referencing assemlies\Namespaces_and_referencing assemlies\obj\Debug\Namespaces_and_referencing assemlies.csprojResolveAssemblyReference.cache
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\14_Namespaces\Namespaces_and_referencing assemlies\bin\Debug\Namespaces_and_referencing assemlies.exe.config
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\14_Namespaces\Namespaces_and_referencing assemlies\bin\Debug\Namespaces_and_referencing assemlies.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\14_Namespaces\Namespaces_and_referencing assemlies\bin\Debug\Namespaces_and_referencing assemlies.pdb
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\14_Namespaces\Namespaces_and_referencing assemlies\obj\Debug\Namespaces_and_referencing assemlies.csprojResolveAssemblyReference.cache
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\14_Namespaces\Namespaces_and_referencing assemlies\obj\Debug\Namespaces_and_referencing assemlies.exe
+C:\Users\Nyasha\Documents\Visual Studio 2015\Projects\14_Namespaces\Namespaces_and_referencing assemlies\obj\Debug\Namespaces_and_referencing assemlies.pdb
